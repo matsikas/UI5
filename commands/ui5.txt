@@ -1,0 +1,2 @@
+To start application
+--> ui5 serve
